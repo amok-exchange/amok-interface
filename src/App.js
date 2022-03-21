@@ -199,12 +199,6 @@ function AppHeaderUser({
   const showSelector = true;
   const networkOptions = [
     {
-      label: "Arbitrum",
-      value: ARBITRUM,
-      icon: "ic_arbitrum_24.svg",
-      color: "#264f79",
-    },
-    {
       label: "Avalanche",
       value: AVALANCHE,
       icon: "ic_avalanche_24.svg",
